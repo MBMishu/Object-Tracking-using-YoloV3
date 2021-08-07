@@ -22,7 +22,7 @@ git clone https://github.com/MBMishu/Object-Tracking-using-YoloV3.git
 &nbsp; 
 <br>
 
-<img src="https://mbmishu.github.io/Object-Tracking-using-YoloV3.git/demo.png">
+<img src="https://github.com/MBMishu/Object-Tracking-using-YoloV3/blob/main/demo.png">
 
 </td>
 </table> 
